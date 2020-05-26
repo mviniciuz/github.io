@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fefaebc8.chunk.js",
+    "main.js.map": "/static/js/main.fefaebc8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a338d56f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a338d56f.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.2310cc7d.chunk.js": "/static/js/2.2310cc7d.chunk.js",
+    "static/js/2.2310cc7d.chunk.js.map": "/static/js/2.2310cc7d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b7bbf733845aa7f54a00685962a9a9f0.js": "/precache-manifest.b7bbf733845aa7f54a00685962a9a9f0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/static/css/2.18fb2ca0.chunk.css.map",
+    "static/js/2.2310cc7d.chunk.js.LICENSE.txt": "/static/js/2.2310cc7d.chunk.js.LICENSE.txt",
+    "static/media/fundacao.svg": "/static/media/fundacao.8fb5d128.svg",
+    "static/media/logoini.svg": "/static/media/logoini.73d4f86a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a338d56f.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.2310cc7d.chunk.js",
+    "static/js/main.fefaebc8.chunk.js"
+  ]
+}
